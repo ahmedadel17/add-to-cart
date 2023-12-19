@@ -1,7 +1,8 @@
-## this is an add to cart project .
+
+# This is an add to cart project .
 -> this was an amazing project that made me learn alot of things with scrimba academy and hope to continue improving.
 
-# Techonolgies used:
+## Techonolgies used:
   * Html
   * css
   * javascript
@@ -9,8 +10,9 @@
   * firebase
   * netlify
   * github
-# you can access the <a href="https://chimerical-beignet-ff68ac.netlify.app/"> live demo here</a>
+## you can access the <a href="https://chimerical-beignet-ff68ac.netlify.app/"> live demo here🫵</a>
     
 
 
 Happy Coding!
+Thanks for reading❤️.
